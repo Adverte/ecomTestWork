@@ -32,3 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 /.gradle/
+/settings.gradle
+/settings.gradle.kts
+/gradlew
+/gradlew.bat
+/build.gradle
+/gradle/
